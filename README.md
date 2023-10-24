@@ -1,7 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Isaiah! <
+
+<h2>👨‍💻 Azure Projects:</h2>
+
+  <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Active Directory Home Lab]()
+  
+
+<h2>Certifications</h2>
+
+- [CompTIA A+ Certification]()
+- [CompTIA Network+ Certification]()
+- [CompTIA Security + Certification]()
+- [Azure Server Fundamentals Certification]()
+- [Azure AI Fundamentals Certification]()
+- [Google Cybersecurity Professional Certificate]()
+
+<h2> 🤳 Connect with me:</h2>
+
+
 
 <!--
-**XeHenry/XeHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
